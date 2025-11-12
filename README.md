@@ -1,7 +1,7 @@
 # 📊 SUSS Analytics and Visualization Challenge 2025 (AVC25)
 
 ## 🧠 Project Title
-**Vendor Sales Performance Dashboard – “BIG FISH”**
+**Vendor Sales Performance Dashboard
 
 ---
 
